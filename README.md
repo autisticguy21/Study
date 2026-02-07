@@ -1,2 +1,1 @@
-# Study
-Study
+# Study Notes
